@@ -1,5 +1,0 @@
-JSON
-{
-  "buildCommand": "npx expo export:web",
-  "outputDirectory": "dist"
-}
